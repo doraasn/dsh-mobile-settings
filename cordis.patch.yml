@@ -1,0 +1,6 @@
+# dsh-mobile-settings: 只挂一个 client 面（client.js 由 dsh.client 声明发现），
+# 用于把 dsh-mobile 的侧栏「移动访问」入口收进设置页。
+- insert:
+    - id: mobile-settings-entry
+      name: 'dsh-mobile-settings'
+      config: {}
