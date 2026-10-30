@@ -6,7 +6,7 @@
   "description": "把 dsh-mobile 的「移动访问」入口从侧栏移到设置页",
   "main": "lib/index.js",
   "exports": {
-    './icon': './icon.svg',
+    "./icon": "./icon.svg",
     ".": "./lib/index.js",
     "./client": "./lib/client.js",
     "./package.json": "./package.json"
