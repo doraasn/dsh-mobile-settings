@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="移动访问设置">
-  <rect width="512" height="512" rx="112" fill="#0f1115"/>
-  <rect x="176" y="96" width="160" height="288" rx="32" fill="none" stroke="#f9fafb" stroke-width="20"/>
-  <rect x="216" y="128" width="80" height="180" rx="12" fill="#43c982"/>
-  <circle cx="256" cy="344" r="16" fill="#f9fafb"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Mobile Access Settings">
+  <rect x="5.4" y="2.4" width="13.2" height="19.2" rx="2.4"/>
+  <path d="M12 18.4h.01"/>
+  <path d="M9.8 10.6a3.2 3.2 0 0 1 4.4 0"/>
+  <path d="M8 8.6a5.8 5.8 0 0 1 8 0"/>
 </svg>
