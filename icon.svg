@@ -1,6 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Mobile Access Settings">
-  <rect x="5.4" y="2.4" width="13.2" height="19.2" rx="2.4"/>
-  <path d="M12 18.4h.01"/>
-  <path d="M9.8 10.6a3.2 3.2 0 0 1 4.4 0"/>
-  <path d="M8 8.6a5.8 5.8 0 0 1 8 0"/>
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mobile Access Settings">
+  <rect x="9.4" y="5" width="15.2" height="26" rx="3.4" fill="url(#ms-phone)" />
+  <rect x="12.4" y="8.6" width="9.2" height="14.4" rx="1.6" fill="#FFFFFF" fill-opacity="0.92" />
+  <path d="M16 27h4" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" />
+  <path d="M26.6 13.2a8 8 0 0 1 0 9.6" stroke="url(#ms-wave)" stroke-width="2.2" stroke-linecap="round" />
+  <path d="M29.6 10.2a12.2 12.2 0 0 1 0 15.6" stroke="url(#ms-wave)" stroke-width="2.2" stroke-linecap="round" />
+  <defs>
+    <linearGradient id="ms-phone" x1="12" y1="5" x2="22" y2="31" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DB9FB" />
+      <stop offset="1" stop-color="#3650DE" />
+    </linearGradient>
+    <linearGradient id="ms-wave" x1="26" y1="10" x2="31" y2="26" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#45D9E7" />
+      <stop offset="1" stop-color="#41E1AC" />
+    </linearGradient>
+  </defs>
 </svg>
