@@ -1,6 +1,6 @@
 {
   "name": "dsh-mobile-settings",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "type": "module",
   "description": "把 dsh-mobile 的「移动访问」入口从侧栏移到设置页",
